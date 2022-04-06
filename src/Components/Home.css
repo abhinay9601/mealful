@@ -1,0 +1,27 @@
+.whole{
+  background-color: aliceblue;
+height: 100%;
+}
+.header{
+  height: 11vh;
+  font-weight:900;
+  font-size: 1.7rem;
+  background-color: aliceblue;
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+}
+p{
+  margin: 1rem;
+}
+.mealful{
+  text-decoration: underline rgb(250, 108, 52);
+  /* margin: 0; */
+}
+.graph{
+  display: flex;
+  justify-content: space-around;
+}
+.graph1{
+  background-color: #fff;
+}
